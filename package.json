@@ -1,6 +1,7 @@
 {
   "name": "youtube-react",
   "version": "0.1.0",
+  "homepage": "https://myusername.github.io/ianstrand/webd171",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.5.3",
