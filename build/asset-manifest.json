@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ianstrand/webd171_react-youtube/static/css/main.1bd2a61a.chunk.css",
+    "main.js": "/ianstrand/webd171_react-youtube/static/js/main.8b5564b0.chunk.js",
+    "main.js.map": "/ianstrand/webd171_react-youtube/static/js/main.8b5564b0.chunk.js.map",
+    "runtime-main.js": "/ianstrand/webd171_react-youtube/static/js/runtime-main.4d56fa5f.js",
+    "runtime-main.js.map": "/ianstrand/webd171_react-youtube/static/js/runtime-main.4d56fa5f.js.map",
+    "static/js/2.dc908593.chunk.js": "/ianstrand/webd171_react-youtube/static/js/2.dc908593.chunk.js",
+    "static/js/2.dc908593.chunk.js.map": "/ianstrand/webd171_react-youtube/static/js/2.dc908593.chunk.js.map",
+    "static/js/3.9e9a17ca.chunk.js": "/ianstrand/webd171_react-youtube/static/js/3.9e9a17ca.chunk.js",
+    "static/js/3.9e9a17ca.chunk.js.map": "/ianstrand/webd171_react-youtube/static/js/3.9e9a17ca.chunk.js.map",
+    "index.html": "/ianstrand/webd171_react-youtube/index.html",
+    "precache-manifest.8bfee040891c17200b8559ac6251d99a.js": "/ianstrand/webd171_react-youtube/precache-manifest.8bfee040891c17200b8559ac6251d99a.js",
+    "service-worker.js": "/ianstrand/webd171_react-youtube/service-worker.js",
+    "static/css/main.1bd2a61a.chunk.css.map": "/ianstrand/webd171_react-youtube/static/css/main.1bd2a61a.chunk.css.map",
+    "static/js/2.dc908593.chunk.js.LICENSE.txt": "/ianstrand/webd171_react-youtube/static/js/2.dc908593.chunk.js.LICENSE.txt",
+    "static/media/Icon5.png": "/ianstrand/webd171_react-youtube/static/media/Icon5.9cf01e14.png",
+    "static/media/semantic.css": "/ianstrand/webd171_react-youtube/static/media/outline-icons.f89ea91e.woff",
+    "static/media/logo.png": "/ianstrand/webd171_react-youtube/static/media/logo.fa6c55a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d56fa5f.js",
+    "static/js/2.dc908593.chunk.js",
+    "static/css/main.1bd2a61a.chunk.css",
+    "static/js/main.8b5564b0.chunk.js"
+  ]
+}
